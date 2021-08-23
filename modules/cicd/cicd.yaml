@@ -14,7 +14,7 @@ Parameters:
 
     RepositoryName:
       Type: String
-      Default: "awslabs/mlmax"
+      Default: "yinsong1986/mlmax"
 
     BuildImageName:
       Description: Instance type
